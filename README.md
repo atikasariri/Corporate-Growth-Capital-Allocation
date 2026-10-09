@@ -18,7 +18,7 @@ _**Key Frameworks & Analytics Used**_
 
 
 _**How to View the Portfolio**_
-* **[Click Here to Open/Download Full PDF Portfolio](./Corporate-Growth-Strategy.pdf)** 
+* **[Click Here to Open/Download (PDF)](./Corporate-Growth-Strategy.pdf?raw=true)**
 * **Main Portfolio Website:** [atikasariri.github.io/Atikasari.github.io](https://atikasariri.github.io/Atikasari.github.io/)
 
 
